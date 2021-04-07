@@ -6,9 +6,6 @@ mark-it is app to encourage microlearning by sending the user a page about somet
 2. nvm install node
 3. nvm install --lts
 4. npx create-next-app
-## Setup for Arch Linux
-1. pacman -S nodejs npm
-2. npx create-next-app
 ```
 Inside that directory, you can run several commands:
 
@@ -26,7 +23,11 @@ We suggest that you begin by typing:
   cd mark-it
   npm run dev
 ```
+## Setup for Arch Linux
+1. pacman -S nodejs npm
+2. npx create-next-app
 
+## Setup for 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
