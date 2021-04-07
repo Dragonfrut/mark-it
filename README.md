@@ -1,9 +1,14 @@
 # mark-it
+mark-it is app to encourage microlearning by sending the user a page about something that they have an interest in learning about a day. Nextjs and Django will be used together for this project.  
+
 ## Setup for Windows Subsystem for Linux 2
 1. curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 2. nvm install node
 3. nvm install --lts
 4. npx create-next-app
+## Setup for Arch Linux
+1. pacman -S nodejs npm
+2. npx create-next-app
 ```
 Inside that directory, you can run several commands:
 
